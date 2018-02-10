@@ -1,0 +1,7 @@
+/home/bdavidson/projects/fSharpPractice/webapi/bin/Debug/netcoreapp2.0/fwebapi.deps.json
+/home/bdavidson/projects/fSharpPractice/webapi/bin/Debug/netcoreapp2.0/fwebapi.runtimeconfig.json
+/home/bdavidson/projects/fSharpPractice/webapi/bin/Debug/netcoreapp2.0/fwebapi.runtimeconfig.dev.json
+/home/bdavidson/projects/fSharpPractice/webapi/bin/Debug/netcoreapp2.0/fwebapi.dll
+/home/bdavidson/projects/fSharpPractice/webapi/bin/Debug/netcoreapp2.0/fwebapi.pdb
+/home/bdavidson/projects/fSharpPractice/webapi/obj/Debug/netcoreapp2.0/fwebapi.dll
+/home/bdavidson/projects/fSharpPractice/webapi/obj/Debug/netcoreapp2.0/fwebapi.pdb
